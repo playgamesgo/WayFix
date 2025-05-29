@@ -5,10 +5,10 @@
   "compatibilityLevel": "JAVA_8",
   "client": [
     "GLXMixin",
+    "KeyboardMixin",
     "MinecraftClientMixin",
     "MonitorFixWindowMixin",
     "MonitorTrackerMixin",
-    "TextFieldWidgetMixin",
     "WindowMixin"
   ],
   "injectors": {
